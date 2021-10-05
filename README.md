@@ -4,13 +4,16 @@
 - 🌱 Aprendendo mais de HTML5, CSS E JavaScript
 - 📫 Contate-me em: Luis54Gabriel@gmail.com
 #
+<header>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+</header>
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=luis54gabriel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis54gabriel&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <img align="center" alt="Luis-HTML" height="30" width="40"><i class="devicon-html5-plain colored"></i>
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Luis-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
