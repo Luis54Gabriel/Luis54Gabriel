@@ -1,8 +1,8 @@
 ### Oi, eu sou o  Luís! 👌🤠👍
 
-- 🔭 Atualmente fazendo um curso profissionalizante com o Instituto PROA
-- 🤠 Tenho planos de cursar ciência da computação, ter meu primeiro emprego e me tornar um desenvolvedir Full Stack.
-- 🌱 Aprendendo mais de HTML5, CSS, JavaScript e React.
+- 🔭 Atualmente cursando Ciência da Computação na Universidade São Judas Tadeu!
+- 🤠 Tenho planos de finalizar minha graduação de ciência da computação e me tornar um desenvolvedor Full Stack consagrado.
+- 🌱 Aprendendo mais de Java e SQL.
 - 📫 Contate-me em: Luis54Gabriel@gmail.com
 #
 <header>
